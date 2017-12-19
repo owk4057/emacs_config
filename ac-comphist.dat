@@ -1,0 +1,28 @@
+((("this" .
+   [1 0 0 0])
+  ("defprotocol" .
+   [0 0 0 0 0 0 1 0 0 0 0])
+  ("main" .
+   [0 0 1 0])
+  ("stdio" .
+   [0 0 0 2 0])
+  ("askdf" .
+   [0 0 1 0 0])
+  ("printf" .
+   [0 0 0 0 1 0])
+  ("scanf" .
+   [0 0 1 1 0])
+  ("func" .
+   [0 0 1 0])
+  ("GPIOx" .
+   [1 0 0 0 1])
+  ("GPIO_InitStructure" .
+   [0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1])
+  ("CHANNEL_CNT" .
+   [0 0 0 2 1 0 0 0 0 0 0])
+  ("ADC_InitTypeDef" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("DMA_InitTypeDef" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 1 0 0])
+  ("DMA_InitStructure" .
+   [0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0])))
